@@ -1,28 +1,29 @@
 <div align="center">
 
-<!-- Ultra-Elite Terminal Hero Section: Void Black & Neon Green -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00FF41&height=340&section=header&text=A%20L%20G%20O%20R%20I%20T%20H%20M%20S%20%20❖%20%20C%20O%20D%20E%20X&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=200%2B%20PAGES%20OF%20PROFESSIONAL%20HINTS%20%26%20TRICKS&descAlignY=60&descAlign=50" width="100%" />
+<!-- Ultra-Premium Quantum/Cyber Hero Section: Deep Abyss & Electric Cyan -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030614,100:00D2FF&height=360&section=header&text=A%20L%20G%20O%20R%20I%20T%20H%20M%20S%20%20❖%20%20P%20R%20O&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20COMPUTATIONAL%20CODEX&descAlignY=60&descAlign=50" width="100%" />
 
-<!-- Command Line Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Master+Asymptotic+Complexity+%26+Big-O;;►+Conquer+Dynamic+Programming+%26+Greedy+Strategies;;►+Deploy+Advanced+Graph+%26+Tree+Traversals;;►+Optimize+with+Multithreaded+Execution&center=true&width=800&height=80&color=00FF41&vCenter=true&size=20&font=Fira+Code&weight=500" />
+<!-- Advanced Command Line Typing Animation (Share Tech Mono for elite hacker feel) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Master+Asymptotic+Complexity+%26+Big-O;►+Conquer+Dynamic+Programming+%26+Greedy+Strategies;►+Deploy+Advanced+Graph+%26+Tree+Traversals;►+Optimize+with+Multithreaded+Execution&center=true&width=800&height=80&color=00D2FF&vCenter=true&size=21&font=Share+Tech+Mono&weight=500" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-GoalKicker_Contributors-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" alt="Author">
-  <img src="https://img.shields.io/badge/IMPLEMENTATIONS-C_|_C++_|_Java_|_Python_|_C%23-0A0A0A?style=for-the-badge&logo=codeigniter&logoColor=00FF41" alt="Languages">
-  <img src="https://img.shields.io/badge/CLEARANCE-Professional_Grade-00FF41?style=for-the-badge&logo=leetcode&logoColor=0A0A0A" alt="Status">
+  <img src="https://img.shields.io/badge/SOURCE-Stack_Overflow_Docs-030614?style=for-the-badge&logo=stackoverflow&logoColor=00D2FF" alt="Source">
+  <img src="https://img.shields.io/badge/PAGES-200%2B_Professional_Hints-030614?style=for-the-badge&logo=bookstack&logoColor=00D2FF" alt="Pages">
+  <img src="https://img.shields.io/badge/LANGUAGES-C_%7C_C++_%7C_Java_%7C_Python-030614?style=for-the-badge&logo=codeigniter&logoColor=00D2FF" alt="Languages">
+  <img src="https://img.shields.io/badge/CLEARANCE-Elite_Grade-00D2FF?style=for-the-badge&logo=rocket&logoColor=030614" alt="Status">
 </p>
 
 <br>
 
 <a href="./Algorithm notes for professionals.pdf">
-  <img src="https://img.shields.io/badge/▨_INITIALIZE_PDF_PROTOCOL-ACCESS_THE_MASTER_ALGORITHM_DOCUMENT-0A0A0A?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FF41" alt="Read PDF" width="600">
+  <img src="https://img.shields.io/badge/▨_INITIALIZE_PDF_PROTOCOL-ACCESS_THE_MASTER_ALGORITHM_DOCUMENT-030614?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D2FF" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
-> ⚠️ **SYSTEM DIRECTIVE:** *This repository houses a comprehensive, unofficial compilation of algorithmic knowledge designed for professional developers[cite: 7]. It bridges the gap between theoretical computer science and practical, production-ready implementation across multiple language stacks[cite: 10].*
+> 🌐 **SYSTEM DIRECTIVE:** *This repository houses a comprehensive, unofficial compilation of algorithmic knowledge designed for professional developers[cite: 7, 12]. It bridges the gap between theoretical computer science and practical, production-ready implementation across multiple language stacks[cite: 10, 12].*
 
 </div>
 
@@ -115,30 +116,50 @@
 
 <h2 align="center">✦ 𝗘 𝗫 𝗘 𝗖 𝗨 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
 
-<p align="center"><i>Do not memorize. Deploy the 5-stage cognitive pipeline to master the underlying architecture.</i></p>
+<p align="center"><i>Do not memorize. Deploy this 5-stage cognitive pipeline to master the underlying architecture.</i></p>
 
 <br>
 
-<div align="center">
-  
-<img src="https://img.shields.io/badge/1_INGEST-Read_Theory-0A0A0A?style=for-the-badge&logo=bookstack&logoColor=00FF41" /> ➔ 
-<img src="https://img.shields.io/badge/2_DECODE-Find_the_Why-0A0A0A?style=for-the-badge&logo=coda&logoColor=00FF41" /> ➔ 
-<img src="https://img.shields.io/badge/3_BUILD-Code_in_IDE-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41" /> ➔ 
-<img src="https://img.shields.io/badge/4_TRANSMIT-Explain_Out_Loud-0A0A0A?style=for-the-badge&logo=podcast&logoColor=00FF41" /> ➔ 
-<img src="https://img.shields.io/badge/5_COMMIT-Lock_to_Memory-00FF41?style=for-the-badge&logo=git&logoColor=0A0A0A" />
-
-</div>
+<table align="center" width="100%">
+  <tr align="center" valign="middle">
+    <td width="20%">
+      <img src="https://img.icons8.com/nolan/96/00D2FF/reading.png" width="60"/><br>
+      <b>1. INGEST</b><br>
+      <sub>Read the Theory</sub>
+    </td>
+    <td width="20%">
+      <img src="https://img.icons8.com/nolan/96/00D2FF/brain.png" width="60"/><br>
+      <b>2. DECODE</b><br>
+      <sub>Find the 'Why'</sub>
+    </td>
+    <td width="20%">
+      <img src="https://img.icons8.com/nolan/96/00D2FF/source-code.png" width="60"/><br>
+      <b>3. BUILD</b><br>
+      <sub>Code in IDE</sub>
+    </td>
+    <td width="20%">
+      <img src="https://img.icons8.com/nolan/96/00D2FF/speaking.png" width="60"/><br>
+      <b>4. TRANSMIT</b><br>
+      <sub>Explain Out Loud</sub>
+    </td>
+    <td width="20%">
+      <img src="https://img.icons8.com/nolan/96/00D2FF/database.png" width="60"/><br>
+      <b>5. COMMIT</b><br>
+      <sub>Lock to Memory</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <table align="center" width="90%">
   <tr>
     <td align="center">
-      <b>💡 Case Study: Mastering Pathfinding</b><br><br>
-      <i>1. What is the fundamental difference between Dijkstra and A*?[cite: 8] <br>
+      <b>💡 Self-Validation Case Study: Pathfinding & Optimization</b><br><br>
+      <i>1. What is the fundamental difference between Dijkstra and A* algorithms?[cite: 8] <br>
       2. Why does Bellman-Ford permit negative weight cycles while Dijkstra fails?[cite: 9] <br>
-      3. Code a multithreaded Matrix Multiplication in C++.[cite: 9] <br>
-      4. Verbally explain how KMP avoids re-evaluating matched string prefixes to a Senior Engineer.[cite: 10]</i>
+      3. Code a multithreaded Matrix Multiplication execution in C++.[cite: 9] <br>
+      4. Verbally explain how the KMP algorithm avoids re-evaluating matched string prefixes to a Senior Engineer.[cite: 10]</i>
     </td>
   </tr>
 </table>
@@ -149,10 +170,6 @@
 
 <!-- Ultra-Premium Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0A0A0A&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:030614&height=120&section=footer" width="100%" />
   <br>
-  <code>&lt; Compile /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Scale /&gt;</code>
-  <br><br>
-  <b>Curated for Excellence. Compiled from Stack Overflow Documentation under Creative Commons BY-SA[cite: 12].</b><br>
-  <i>Mastering the Computational Tech Stack.</i>
-</div>
+  <code>&lt
